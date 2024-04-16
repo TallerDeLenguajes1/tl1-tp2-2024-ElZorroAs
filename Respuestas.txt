@@ -1,3 +1,6 @@
 ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
-No lo puedo ver ya que esta en otra rama xd
-
+No, no lo puedo ver porque lo cree en Opcion_2
+¿Qué diferencias nota?
+Al ejecutar gitk --all nuevamente, noto que hay un nuevo commit en la rama principal para el archivo Respuestas.txt y también veo los commits en la rama Opcion_2, que no estaban antes.
+¿Qué nota?
+veo que los cambios de Opcion_2 ahora también están en la rama principal.
